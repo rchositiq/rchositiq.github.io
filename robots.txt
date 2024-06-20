@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rchositiq.github.io/sitemap
+Sitemap: https://rchositiq.github.io/app/sitemap
+Sitemap: https://rchositiq.github.io/assets/sitemap
+Sitemap: https://rchositiq.github.io/css/sitemap
+Sitemap: https://rchositiq.github.io/includes/sitemap
+Sitemap: https://rchositiq.github.io/item/sitemap
+Sitemap: https://rchositiq.github.io/src/sitemap
